@@ -1,8 +1,7 @@
-[
-   {
-      "name": "pizza",
-      "price": 10,
-      "descriptionShort": "some short description",
-      "descriptionLong": "string | number"
-   }
-]
+{
+   "tasks": [
+      { "id": 1, "title": "Test 1", "description": "asdasdasd" },
+      { "id": 2, "title": "Test 2", "description": "qwqwqwqwqw" },
+      { "id": 3, "title": "Test 3", "description": "xcxcxcxcxc" }
+   ]
+}
