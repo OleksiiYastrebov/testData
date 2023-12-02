@@ -1,7 +1,39 @@
 {
-   "tasks": [
-      { "id": 1, "title": "Test 1", "description": "asdasdasd" },
-      { "id": 2, "title": "Test 2", "description": "qwqwqwqwqw" },
-      { "id": 3, "title": "Test 3", "description": "xcxcxcxcxc" }
+   "products": [
+      {
+         "id": 1,
+         "name": "pizza 1",
+         "price": "1",
+         "descriptionShort": "some short description",
+         "descriptionLong": "very very long description for product which also contains number 1"
+      },
+      {
+         "id": 2,
+         "name": "pizza 2",
+         "price": "2",
+         "descriptionShort": "some short description",
+         "descriptionLong": "very very long description for product which also contains number 2"
+      },
+      {
+         "id": 3,
+         "name": "pizza 3",
+         "price": "3",
+         "descriptionShort": "some short description",
+         "descriptionLong": "very very long description for product which also contains number 3"
+      },
+      {
+         "id": 4,
+         "name": "pizza 4",
+         "price": "4",
+         "descriptionShort": "some short description",
+         "descriptionLong": "very very long description for product which also contains number 4"
+      },
+      {
+         "id": 5,
+         "name": "pizza 5",
+         "price": "5",
+         "descriptionShort": "some short description",
+         "descriptionLong": "very very long description for product which also contains number 5"
+      }
    ]
 }
