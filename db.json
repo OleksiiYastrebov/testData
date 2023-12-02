@@ -1,0 +1,8 @@
+[
+   {
+      "name": "pizza",
+      "price": 10,
+      "descriptionShort": "some short description",
+      "descriptionLong": "string | number"
+   }
+]
